@@ -1,4 +1,4 @@
-Fork of [docker-nginx-brotli](https://github.com/fholzer/docker-nginx-brotli) with changed brotli repository, from [google/ngx_brotli](https://github.com/google/ngx_brotli) to [eustas/ngx_brotli](https://github.com/eustas/ngx_brotli)
+Fork of [docker-nginx-brotli](https://github.com/fholzer/docker-nginx-brotli) with changed brotli repository, from [google/ngx_brotli](https://github.com/google/ngx_brotli) (that is unmaintained) to [eustas/ngx_brotli](https://github.com/eustas/ngx_brotli)
 ...
 
 # What is this?
